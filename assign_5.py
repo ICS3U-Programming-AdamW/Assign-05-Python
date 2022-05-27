@@ -15,7 +15,7 @@ def calculate(user_radius, unit):
     volume = 4 / 3 * math.pi * user_radius**3
 
     # return volume variable and updated value
-    return volume;
+    return volume
 
 
 # main function
